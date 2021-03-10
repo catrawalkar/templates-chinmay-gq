@@ -1,8 +1,8 @@
 {
-  "name": "cuba-react",
+  "name": "cuba-react-theme",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://react.pixelstrap.com/cuba/",
+  "homepage": "https://templates.chinmay.gq/cuba-react-theme/theme/build/",
   "dependencies": {
     "@auth0/auth0-react": "^1.0.0",
     "@fullcalendar/daygrid": "^5.1.0",
